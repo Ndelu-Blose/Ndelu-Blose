@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm **Thamsanqa Ndelu**, a Final-year ICT Applications Development student at **Durban University of Technology (DUT)**.  
 I’m passionate about building **software solutions** that are both functional and user-friendly — from intuitive web interfaces to scalable backend systems.  
 
----
+
 
 ## 🚀 Learning Journey
 
@@ -12,7 +12,7 @@ I’m passionate about building **software solutions** that are both functional 
 - Creating innovative application ideas for real-world problems  
 - Gaining experience in **cloud services, databases, and modern frameworks**  
 
----
+
 
 ## 🛠️ Skills & Expertise
 
@@ -31,7 +31,7 @@ I’m passionate about building **software solutions** that are both functional 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
 
----
+
 
 ## 🎯 Development Focus
 
@@ -39,7 +39,7 @@ I’m passionate about building **software solutions** that are both functional 
 - Scalable & maintainable systems  
 - Practical problem-solving with community impact  
 
----
+
 
 ## 📫 How to Reach Me
 
