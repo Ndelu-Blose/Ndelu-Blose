@@ -1,47 +1,122 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Thamsanqa Ndelu**, a Final-year ICT Applications Development student at **Durban University of Technology (DUT)**.  
-I’m passionate about building **software solutions** that are both functional and user-friendly — from intuitive web interfaces to scalable backend systems.  
+Welcome to my GitHub profile!  
+I'm **Thamsanqa Ndelu**, an **ICT Applications Development graduate** from **Durban University of Technology (DUT)**.
+
+I build **practical, scalable, and user-focused software solutions** — from full-stack web applications to backend systems that solve real-world problems. I enjoy working on projects that improve workflows, automate processes, and deliver real business value.
+
+---
+
+## 🎓 Education
+**Diploma in ICT Applications Development**  
+Durban University of Technology (DUT)  
 
 
+---
 
-## 🚀 Learning Journey
+## 🚀 Professional Focus
+- Full-stack web application development  
+- Backend systems & database design  
+- Workflow automation & internal systems  
+- Clean UI/UX with performance in mind  
+- Real-world problem solving through software  
 
-- Building projects with **C#, ASP.NET Core MVC, Razor syntax**  
-- Developing front-end applications with **React.js**  
-- Creating innovative application ideas for real-world problems  
-- Gaining experience in **cloud services, databases, and modern frameworks**  
-
-
+---
 
 ## 🛠️ Skills & Expertise
 
-### Programming Languages  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
-### Frameworks & Tools  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
+---
 
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+---
 
-## 🎯 Development Focus
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-- Full-stack web applications  
-- Scalable & maintainable systems  
-- Practical problem-solving with community impact  
+---
 
+### 🧰 Tools, Platforms & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
+---
 
-## 📫 How to Reach Me
+## 📂 Key Projects (Completed)
 
-- **Email**: [thamsanqandelu0210@gmail.com](mailto:thamsanqandelu0210@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/thamsanqa-ndelu](https://www.linkedin.com/in/thamsanqa-ndelu)  
+### 🖥️ DeviceDesk – ICT Asset Management System
+**Tech:** ASP.NET Core MVC, Entity Framework Core, SQL Server  
+- End-to-end system for managing ICT devices across schools  
+- Role-based dashboards (Admin, Technicians, Clerks, Managers)  
+- Device lifecycle tracking: receiving, inspection, storage, dispatch  
+- Audit trails, reporting, and data integrity controls  
+
+---
+
+### 🚗 AutoEdge – Vehicle Services & Management Platform
+**Tech:** React / Next.js, JavaScript, Supabase  
+- Web-based platform for managing automotive services and bookings  
+- Automated service workflows to reduce manual operations  
+- Responsive UI focused on usability and performance  
+- Cloud-backed data handling and authentication  
+
+---
+
+### 🌐 Business & Portfolio Websites
+**Tech:** React, Next.js, HTML, CSS, JavaScript  
+- Designed and developed responsive business websites  
+- WhatsApp click-to-chat, contact forms, and SEO basics  
+- Deployed using **Vercel** and **IIS**  
+
+---
+
+### 📊 Data & Reporting Tools
+**Tech:** SQL  
+- Built dashboards using structured datasets  
+- Data cleaning, relationships, and visual reporting  
+
+---
+
+## 📈 What I’m Currently Working On
+- Enhancing system architecture and backend performance  
+- Improving deployment pipelines and hosting strategies  
+- Expanding cloud and production-level experience  
+- Building solutions for real businesses and organizations  
+
+---
+
+## 🤝 Let’s Connect
+- 📧 Email: **thamsanqandelu0210@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/thamsanqa-ndelu
+- 💻 GitHub: https://github.com/Ndelu-Blose
+
+---
+
+⭐ _Always learning, building, and open to new opportunities._
