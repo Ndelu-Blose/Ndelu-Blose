@@ -33,39 +33,34 @@
 
 ---
 
-## ▶ About Me
+## 👋 About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```bash
-┌──(thamsanqa㉿durban)-[~/dev]
-└─$ cat about.txt
+### Hey, I'm Thamsanqa — but you can call me Tham.
 
-  NAME     : Thamsanqa Ndelu
-  LOCATION : Durban, South Africa 🇿🇦
-  ROLE     : Full-Stack Software Developer
-  SCHOOL   : Durban University of Technology (DUT)
-  DEGREE   : Diploma in ICT Applications Development
+I'm a **Full-Stack Software Developer** based in **Durban, South Africa 🇿🇦**, and I graduated from the **Durban University of Technology** with a Diploma in ICT Applications Development.
 
-  MISSION  : Build software that solves REAL problems.
-             Not just code — systems. Not just features —
-             value. Backend-heavy, full-stack capable,
-             always shipping.
+I don't just write code — I build **systems that work in the real world**. Whether it's a full platform from database to UI, an internal tool that saves a team hours every week, or a clean responsive website — I focus on software that actually delivers value, not just ticks a checkbox.
 
-  STRENGTHS: → Backend architecture & API design
-             → Database modelling & performance
-             → Full-stack delivery from DB to UI
-             → Workflow automation & internal tools
-             → Clean, maintainable, production-ready code
+> 💡 *"I'm the kind of developer who asks 'what problem are we solving?' before writing a single line."*
 
-  STATUS   : 🟢 Available for freelance / full-time
-  VIBE     : Quiet builder. Loud results.
-```
+<br/>
 
-```bash
-└─$ echo $MOTTO
-"Ship it. Improve it. Repeat."
-```
+🟢 &nbsp;**Currently available** for freelance, contract & full-time opportunities  
+📍 &nbsp;Based in Durban — open to remote work  
+🎓 &nbsp;Diploma in ICT Applications Development · DUT  
+⚡ &nbsp;Backend-heavy, full-stack capable, always shipping
+
+<br/>
+
+**What I bring to the table:**
+
+🔧 &nbsp;Backend systems & API design that scale  
+🗄️ &nbsp;Database architecture built for performance  
+🌐 &nbsp;Full-stack delivery — from DB all the way to the UI  
+⚙️ &nbsp;Workflow automation that cuts manual effort  
+✅ &nbsp;Clean, maintainable code that teams can actually work with
 
 <br clear="right"/>
 
