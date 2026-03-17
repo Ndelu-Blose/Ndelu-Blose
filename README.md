@@ -33,21 +33,41 @@
 
 ---
 
-## 👤 About Me
+## ▶ whoami
 
-```javascript
-const thamsanqa = {
-  location:    "Durban, South Africa 🇿🇦",
-  education:   "Diploma in ICT Applications Development @ DUT",
-  role:        "Full-Stack Developer",
-  focus:       ["Backend Systems", "Full-Stack Web Apps", "Workflow Automation"],
-  currentlyOn: "Leveling up system architecture & cloud deployment",
-  openTo:      "Freelance work, contracts & full-time roles",
-  motto:       "Always learning, always building."
-};
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```bash
+┌──(thamsanqa㉿durban)-[~/dev]
+└─$ cat about.txt
+
+  NAME     : Thamsanqa Ndelu
+  LOCATION : Durban, South Africa 🇿🇦
+  ROLE     : Full-Stack Software Developer
+  SCHOOL   : Durban University of Technology (DUT)
+  DEGREE   : Diploma in ICT Applications Development
+
+  MISSION  : Build software that solves REAL problems.
+             Not just code — systems. Not just features —
+             value. Backend-heavy, full-stack capable,
+             always shipping.
+
+  STRENGTHS: → Backend architecture & API design
+             → Database modelling & performance
+             → Full-stack delivery from DB to UI
+             → Workflow automation & internal tools
+             → Clean, maintainable, production-ready code
+
+  STATUS   : 🟢 Available for freelance / full-time
+  VIBE     : Quiet builder. Loud results.
 ```
 
-I build **practical, scalable, user-focused software** — from full-stack web platforms to backend systems that solve real problems. I care about clean code, solid architecture, and software that delivers actual value.
+```bash
+└─$ echo $MOTTO
+"Ship it. Improve it. Repeat."
+```
+
+<br clear="right"/>
 
 ---
 
