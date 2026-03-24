@@ -37,7 +37,7 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Hey, I'm Thamsanqa — but you can call me Tham.
+### Hey, I'm Thamsanqa — but you can call me Thami.
 
 I'm a **Full-Stack Software Developer** based in **Durban, South Africa 🇿🇦**, and I graduated from the **Durban University of Technology** with a Diploma in ICT Applications Development.
 
