@@ -99,64 +99,39 @@ I don't just write code — I build **systems that work in the real world**. Whe
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🖥️ [FleetHub](https://github.com/Ndelu-Blose/Fleet_Rental_System) &nbsp;·&nbsp; Fleet Rental Management System
+Full-stack rental platform for managing vehicles, drivers, contracts and payments — separate admin and driver portals included.
+`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `NextAuth` `Stripe`
+- Role-based access with dedicated admin & driver dashboards
+- Stripe payments, document verification & contract compliance tracking
+- Analytics dashboard, maintenance monitoring & operational reporting
 
-### 🖥️ FleetHub
-**Fleet Rental Management System**
+---
 
-> Full-stack rental platform for managing vehicles, drivers, contracts and payments — with separate admin and driver portals.
+### 🚗 [AutoEdge](https://autoedgedealership.azurewebsites.net/) &nbsp;·&nbsp; Vehicle Dealership Management Platform
+Full-featured dealership system covering vehicle sales, service operations, AI-powered recruitment, and employee onboarding.
+`ASP.NET Core 9` `EF Core` `SQL Server` `Azure` `Stripe` `OpenRouter AI`
+- Stripe payments, e-signatures, PDF contracts & QR code generation
+- AI recruitment assistant with resume parsing & automated assessments
+- Customer portal with real-time service tracking and invoice history
 
-- 🔐 Role-based access: Admin & Driver portals
-- 💳 Stripe payments + document verification workflow
-- 📄 Contract management & compliance tracking
-- ⚡ Next.js 16 · Prisma · PostgreSQL · Supabase · NextAuth
+---
 
-</td>
-<td width="50%">
+### 🖥️ [DeviceDesk](https://github.com/Ndelu-Blose/DeviceDesk) &nbsp;·&nbsp; ICT Asset Management System
+Enterprise device lifecycle system built for schools — structured workflows from receipt through dispatch with full auditability.
+`ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
+- Role dashboards for Admins, Technicians, Clerks and Managers
+- Full device lifecycle: receive → inspect → store → dispatch
+- Audit trails, structured reporting & data integrity controls
 
-### 🖥️ DeviceDesk
-**ICT Asset Management System**
+---
 
-> End-to-end system for managing ICT devices across schools — built for real operational use.
-
-- 🔐 Role-based dashboards: Admin, Technicians, Clerks, Managers
-- 🔄 Full device lifecycle: receive → inspect → store → dispatch
-- 📋 Audit trails, reporting & data integrity controls
-- 🧱 ASP.NET Core MVC · EF Core · SQL Server
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 AutoEdge
-**Vehicle Dealership Management Platform**
-
-> Full-featured dealership platform covering vehicle sales, service management, AI-powered recruitment, and employee onboarding.
-
-- 💳 Stripe payments, e-signatures & PDF contract generation
-- 🤖 AI recruitment assistant via OpenRouter · video interviews
-- 📱 Customer portal with real-time service status updates
-- ⚡ ASP.NET Core 9 · EF Core · SQL Server · Azure
-
-</td>
-<td width="50%">
-
-### 🦅 Hawkeye
-**Neighbourhood Safety & Incident Reporting**
-
-> Secure incident reporting platform with structured roles, audit trails, and automated email notifications.
-
-- 🔐 RBAC with bcrypt auth: Resident, Authority, Admin roles
-- 📋 Admin audit log for all privileged actions
-- 🐳 Docker Compose support for easy deployment
-- 🐍 Flask · SQLAlchemy · PostgreSQL
-
-</td>
-</tr>
-</table>
+### 🦅 [Hawkeye](https://github.com/Ndelu-Blose/hawkeye-incident-system) &nbsp;·&nbsp; Neighbourhood Safety & Incident Reporting
+Secure incident reporting platform with structured RBAC, admin audit trails, and automated email notifications.
+`Python` `Flask` `SQLAlchemy` `PostgreSQL` `Docker`
+- Three-tier RBAC: Resident, Authority, Admin with bcrypt auth
+- Privileged action audit log · secure cookie & CSRF protection
+- Docker Compose support with production-ready security configuration
 
 ### 📊 Data & Reporting Tools
 **SQL | Structured Datasets**
