@@ -103,6 +103,19 @@ I don't just write code — I build **systems that work in the real world**. Whe
 <tr>
 <td width="50%">
 
+### 🖥️ FleetHub
+**Fleet Rental Management System**
+
+> Full-stack rental platform for managing vehicles, drivers, contracts and payments — with separate admin and driver portals.
+
+- 🔐 Role-based access: Admin & Driver portals
+- 💳 Stripe payments + document verification workflow
+- 📄 Contract management & compliance tracking
+- ⚡ Next.js 16 · Prisma · PostgreSQL · Supabase · NextAuth
+
+</td>
+<td width="50%">
+
 ### 🖥️ DeviceDesk
 **ICT Asset Management System**
 
@@ -111,37 +124,39 @@ I don't just write code — I build **systems that work in the real world**. Whe
 - 🔐 Role-based dashboards: Admin, Technicians, Clerks, Managers
 - 🔄 Full device lifecycle: receive → inspect → store → dispatch
 - 📋 Audit trails, reporting & data integrity controls
-- 🧱 ASP.NET Core MVC + EF Core + SQL Server
-
-</td>
-<td width="50%">
-
-### 🚗 AutoEdge
-**Vehicle Services & Management Platform**
-
-> Web-based platform built to cut manual automotive service operations.
-
-- 📅 Automated service booking workflows
-- ☁️ Cloud-backed auth & data via Supabase
-- 📱 Responsive, performance-focused UI
-- ⚡ React / Next.js + JavaScript + Supabase
+- 🧱 ASP.NET Core MVC · EF Core · SQL Server
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 Business & Portfolio Websites
-**React / Next.js | HTML | CSS | JavaScript**
+### 🚗 AutoEdge
+**Vehicle Dealership Management Platform**
 
-> Responsive business websites deployed to production.
+> Full-featured dealership platform covering vehicle sales, service management, AI-powered recruitment, and employee onboarding.
 
-- 💬 WhatsApp click-to-chat + contact forms
-- 🔍 SEO basics implemented
-- 🚀 Deployed via **Vercel** and **IIS**
+- 💳 Stripe payments, e-signatures & PDF contract generation
+- 🤖 AI recruitment assistant via OpenRouter · video interviews
+- 📱 Customer portal with real-time service status updates
+- ⚡ ASP.NET Core 9 · EF Core · SQL Server · Azure
 
 </td>
 <td width="50%">
+
+### 🦅 Hawkeye
+**Neighbourhood Safety & Incident Reporting**
+
+> Secure incident reporting platform with structured roles, audit trails, and automated email notifications.
+
+- 🔐 RBAC with bcrypt auth: Resident, Authority, Admin roles
+- 📋 Admin audit log for all privileged actions
+- 🐳 Docker Compose support for easy deployment
+- 🐍 Flask · SQLAlchemy · PostgreSQL
+
+</td>
+</tr>
+</table>
 
 ### 📊 Data & Reporting Tools
 **SQL | Structured Datasets**
