@@ -71,6 +71,7 @@ I don't just write code — I build **systems that work in the real world**. Whe
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
@@ -79,13 +80,18 @@ I don't just write code — I build **systems that work in the real world**. Whe
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,6 +99,7 @@ I don't just write code — I build **systems that work in the real world**. Whe
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
@@ -100,8 +107,8 @@ I don't just write code — I build **systems that work in the real world**. Whe
 ## 🚀 Featured Projects
 
 ### 🖥️ [FleetHub](https://github.com/Ndelu-Blose/Fleet_Rental_System) &nbsp;·&nbsp; Fleet Rental Management System
-Full-stack rental platform for managing vehicles, drivers, contracts and payments — separate admin and driver portals included.
-`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `NextAuth` `Stripe`
+Database-driven fleet management system supporting vehicle tracking, compliance monitoring, contract management, and operational dashboards for ride-hailing logistics platforms.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `NextAuth` `Stripe`
 - Role-based access with dedicated admin & driver dashboards
 - Stripe payments, document verification & contract compliance tracking
 - Analytics dashboard, maintenance monitoring & operational reporting
@@ -118,7 +125,7 @@ Full-featured dealership system covering vehicle sales, service operations, AI-p
 ---
 
 ### 🖥️ [DeviceDesk](https://github.com/Ndelu-Blose/DeviceDesk) &nbsp;·&nbsp; ICT Asset Management System
-Enterprise device lifecycle system built for schools — structured workflows from receipt through dispatch with full auditability.
+Enterprise device lifecycle and operational tracking system built with ASP.NET Core and SQL Server, supporting structured workflows, auditability, and reporting.
 `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
 - Role dashboards for Admins, Technicians, Clerks and Managers
 - Full device lifecycle: receive → inspect → store → dispatch
@@ -133,17 +140,23 @@ Secure incident reporting platform with structured RBAC, admin audit trails, and
 - Privileged action audit log · secure cookie & CSRF protection
 - Docker Compose support with production-ready security configuration
 
-### 📊 Data & Reporting Tools
-**SQL | Structured Datasets**
+---
 
-> Dashboards and reporting tools built on real business data.
+### 🏥 [Digital Health Assistant](https://github.com/Ndelu-Blose/Digital-health-assistant) &nbsp;·&nbsp; AI-Powered Mobile Healthcare App
+AI-powered mobile healthcare assistant with intelligent symptom-checking features, built for accessibility and ease of use.
+`React Native` `FastAPI` `Firebase` `Python`
+- Intelligent symptom checker powered by AI
+- Mobile-first design with cross-platform support
+- Firebase-backed auth and real-time data handling
 
-- 🧹 Data cleaning and relational design
-- 📈 Visual reporting from structured datasets
+---
 
-</td>
-</tr>
-</table>
+### 🏗️ [MzansiBuilds](https://github.com/Ndelu-Blose/MzansiBuilds) &nbsp;·&nbsp; Developer Community Platform
+A platform that helps developers build publicly and keep up with what other developers are building — a transparent building-in-public community for the Mzansi dev ecosystem.
+`JavaScript`
+- Community-driven developer showcase and discovery
+- Encourages public building and accountability
+- Built for the South African developer community
 
 ---
 
