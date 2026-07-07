@@ -43,7 +43,7 @@ I'm a **Full-Stack Software Developer** based in **Durban, South Africa 🇿🇦
 
 I don't just write code — I build **systems that work in the real world**. Whether it's a full platform from database to UI, an internal tool that saves a team hours every week, or a clean responsive website — I focus on software that actually delivers value, not just ticks a checkbox.
 
-> 💡 *"I'm the kind of developer who asks 'what problem are we solving?' before writing a single line."*
+>  *"I'm the kind of developer who asks 'what problem are we solving?' before writing a single line."*
 
 <br/>
 
@@ -56,11 +56,11 @@ I don't just write code — I build **systems that work in the real world**. Whe
 
 **What I bring to the table:**
 
-🔧 &nbsp;Backend systems & API design that scale  
-🗄️ &nbsp;Database architecture built for performance  
-🌐 &nbsp;Full-stack delivery — from DB all the way to the UI  
-⚙️ &nbsp;Workflow automation that cuts manual effort  
-✅ &nbsp;Clean, maintainable code that teams can actually work with
+ &nbsp;Backend systems & API design that scale  
+ &nbsp;Database architecture built for performance  
+ &nbsp;Full-stack delivery — from DB all the way to the UI  
+ &nbsp;Workflow automation that cuts manual effort  
+ &nbsp;Clean, maintainable code that teams can actually work with
 
 <br clear="right"/>
 
