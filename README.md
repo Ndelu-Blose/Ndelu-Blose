@@ -113,15 +113,6 @@ I don't just write code — I build **systems that work in the real world**. Whe
 
 ## 🚀 Featured Projects
 
-### 🛒 [King G System](https://github.com/Ndelu-Blose/king-g-system) &nbsp;·&nbsp; Enterprise POS & Operations Platform &nbsp;·&nbsp; [Live ↗](https://king-g-system.vercel.app)
-Full-stack point-of-sale and operations platform for a real retail business, covering sales, inventory management, and role-based operational workflows.
-`TypeScript` `React` `Node.js` `Supabase` `PostgreSQL` `Vercel`
-- Point-of-sale flow with real-time inventory tracking
-- Role-based access control across operational workflows
-- Deployed to production on Vercel with a Supabase backend
-
----
-
 ### 🚚 FleetHub &nbsp;·&nbsp; Fleet Rental Management System &nbsp;·&nbsp; <sub>(private repo)</sub>
 Database-driven fleet management system supporting vehicle tracking, compliance monitoring, contract management, and operational dashboards for ride-hailing logistics platforms.
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `NextAuth` `Stripe`
