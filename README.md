@@ -35,8 +35,6 @@
 
 ## 👋 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ### Hey, I'm Thamsanqa — but you can call me Thami.
 
 I'm a **Full-Stack Software Developer** based in **Durban, South Africa 🇿🇦**, and I graduated from the **Durban University of Technology** with a Diploma in ICT Applications Development.
@@ -62,8 +60,6 @@ I don't just write code — I build **systems that work in the real world**. Whe
  &nbsp;Workflow automation that cuts manual effort  
  &nbsp;Clean, maintainable code that teams can actually work with
 
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -71,6 +67,7 @@ I don't just write code — I build **systems that work in the real world**. Whe
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -85,6 +82,8 @@ I don't just write code — I build **systems that work in the real world**. Whe
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -114,7 +113,16 @@ I don't just write code — I build **systems that work in the real world**. Whe
 
 ## 🚀 Featured Projects
 
-### 🖥️ [FleetHub](https://github.com/Ndelu-Blose/Fleet_Rental_System) &nbsp;·&nbsp; Fleet Rental Management System
+### 🛒 [King G System](https://github.com/Ndelu-Blose/king-g-system) &nbsp;·&nbsp; Enterprise POS & Operations Platform &nbsp;·&nbsp; [Live ↗](https://king-g-system.vercel.app)
+Full-stack point-of-sale and operations platform for a real retail business, covering sales, inventory management, and role-based operational workflows.
+`TypeScript` `React` `Node.js` `Supabase` `PostgreSQL` `Vercel`
+- Point-of-sale flow with real-time inventory tracking
+- Role-based access control across operational workflows
+- Deployed to production on Vercel with a Supabase backend
+
+---
+
+### 🚚 FleetHub &nbsp;·&nbsp; Fleet Rental Management System &nbsp;·&nbsp; <sub>(private repo)</sub>
 Database-driven fleet management system supporting vehicle tracking, compliance monitoring, contract management, and operational dashboards for ride-hailing logistics platforms.
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `NextAuth` `Stripe`
 - Role-based access with dedicated admin & driver dashboards
@@ -123,9 +131,9 @@ Database-driven fleet management system supporting vehicle tracking, compliance 
 
 ---
 
-### 🚗 [AutoEdge](https://autoedgedealership.azurewebsites.net/) &nbsp;·&nbsp; Vehicle Dealership Management Platform
+### 🚗 [AutoEdge](https://github.com/Ndelu-Blose/AutoEdge) &nbsp;·&nbsp; Vehicle Dealership Management Platform
 Full-featured dealership system covering vehicle sales, service operations, AI-powered recruitment, and employee onboarding.
-`ASP.NET Core 9` `EF Core` `SQL Server` `Azure` `Stripe` `OpenRouter AI`
+`ASP.NET Core 9` `EF Core` `SQL Server` `Azure` `GitHub Actions` `Stripe` `OpenRouter AI`
 - Stripe payments, e-signatures, PDF contracts & QR code generation
 - AI recruitment assistant with resume parsing & automated assessments
 - Customer portal with real-time service tracking and invoice history
@@ -141,7 +149,7 @@ Enterprise device lifecycle and operational tracking system built with ASP.NET C
 
 ---
 
-### 🦅 [Hawkeye](https://github.com/Ndelu-Blose/hawkeye-incident-system) &nbsp;·&nbsp; Neighbourhood Safety & Incident Reporting
+### 🦅 Hawkeye &nbsp;·&nbsp; Neighbourhood Safety & Incident Reporting
 Secure incident reporting platform with structured RBAC, admin audit trails, and automated email notifications.
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `Docker`
 - Three-tier RBAC: Resident, Authority, Admin with bcrypt auth
@@ -159,7 +167,7 @@ AI-powered mobile healthcare assistant with intelligent symptom-checking feature
 
 ---
 
-### 🏗️ [MzansiBuilds](https://github.com/Ndelu-Blose/MzansiBuilds) &nbsp;·&nbsp; Developer Community Platform
+### 🏗️ [MzansiBuilds](https://github.com/Ndelu-Blose/MzansiBuilds) &nbsp;·&nbsp; Developer Community Platform &nbsp;·&nbsp; [Live ↗](https://mzansi-builds-kg6m.vercel.app)
 A platform that helps developers build publicly and keep up with what other developers are building — a transparent building-in-public community for the Mzansi dev ecosystem.
 `JavaScript`
 - Community-driven developer showcase and discovery
@@ -171,28 +179,22 @@ A platform that helps developers build publicly and keep up with what other deve
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ndelu-Blose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs,issues,contribs&hide_rank=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndelu-Blose&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=c,powershell,tsql"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ndelu-Blose&theme=tokyonight&hide_border=true&mode=weekly&hide_current_streak=true" alt="Contributions and Longest Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndelu-Blose&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=c,powershell,tsql" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ndelu-Blose&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndelu-Blose&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndelu-Blose&theme=tokyonight" alt="Contributions over the last year"/>
 </div>
 
 ---
 
 ## 🎯 Currently Focused On
 
-```
-[████████████░░░░░░░░] System Architecture & Backend Performance
-[█████████████░░░░░░░] Deployment Pipelines & Hosting Strategies  
-[████████░░░░░░░░░░░░] Cloud & Production-Level Experience
-[██████████████░░░░░░] Real-world Business Solutions
-```
+- 🏗️ &nbsp;**System architecture & backend performance**: designing services that stay fast as data grows
+- 🚀 &nbsp;**Deployment pipelines**: CI/CD with GitHub Actions, shipping to Vercel, Azure & Docker
+- ☁️ &nbsp;**Production-grade cloud work**: monitoring, scaling and reliable hosting
+- 💼 &nbsp;**Real-world business solutions**: POS, operations and management systems for actual clients
 
 ---
 
